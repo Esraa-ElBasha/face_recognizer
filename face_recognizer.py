@@ -1,18 +1,18 @@
 '''
-Face recognition :
-this code reads the database at the begining where the recognizer is trained on the existing database
-,we assumed that every person has two picture fron view but increasig  the data base for every perosn from different views increases the success rate,
-then it compares certain image with the database to know who it is since we donot have a database yet we tested this code on yalefaces database
-you have to change the path of the existing database,you also have to enter the location of the image you want it to compare it to at the prompt.
+Face recognition:
+This code reads the database at the beginning where the recognizer is trained on the existing database
+,we assumed that every person has two picture front view but increasing  the data base for every person from different views increases the success rate,
+Then it compares certain image with the database to know who it is since we donot have a database yet we tested this code on Yalefaces database
+You have to change the path of the existing database, you also have to enter the location of the image you want it to compare it to at the prompt.
 
 We also took some photo and tried the code it word with success 9/10.
 
+Creators:
+Esraa El-Basha
+Marwan Ibrahim
 
-creators :
-1-Esraa El-Basha
-2-Marwan Ibrahim
+''' 
 
-'''
 
 
 #!/usr/bin/python
